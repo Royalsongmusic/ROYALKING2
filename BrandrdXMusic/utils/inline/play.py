@@ -68,7 +68,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ⛦", url=f"https://t.me/Rajking1212"
+                text="⛦ ᴏᴡɴᴇʀ ⛦", url=f"@II_ROYALENTRY1128_II"
             ),
             InlineKeyboardButton(
                 text="⛦ ꜱᴜᴘᴘᴏʀᴛ 🥀", url=f"https://t.me/royalmusicboto"
@@ -90,7 +90,7 @@ def stream_markup(_, chat_id):
         ],
          [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ⛦", url=f"https://t.me/Rajking1212"
+                text="⛦ ᴏᴡɴᴇʀ ⛦", url=f"@II_ROYALENTRY1128_II"
             ),
             InlineKeyboardButton(
                 text="⛦ ꜱᴜᴘᴘᴏʀᴛ 🥀", url=f"https://t.me/royalmusicboto"
